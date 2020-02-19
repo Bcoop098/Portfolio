@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 7f2ddc115662bef418a7757c0b2ea539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4698790625022131474
+    second: BaristaWher_Enraged_Walk_0
+  - first:
+      213: 4135062689500184657
+    second: BaristaWher_Enraged_Walk_1
+  - first:
+      213: 3209840393764750451
+    second: BaristaWher_Enraged_Walk_2
+  - first:
+      213: -5553673809354662766
+    second: BaristaWher_Enraged_Walk_3
+  - first:
+      213: -4251434317813000643
+    second: BaristaWher_Enraged_Walk_4
+  - first:
+      213: 8111371664578101171
+    second: BaristaWher_Enraged_Walk_5
+  - first:
+      213: 7399061397149268347
+    second: BaristaWher_Enraged_Walk_6
+  - first:
+      213: -4477053798175290197
+    second: BaristaWher_Enraged_Walk_7
+  - first:
+      213: -8159530982296991540
+    second: BaristaWher_Enraged_Walk_8
+  - first:
+      213: -7744237689818238186
+    second: BaristaWher_Enraged_Walk_9
+  - first:
+      213: -8200217793583728702
+    second: BaristaWher_Enraged_Walk_10
+  - first:
+      213: -3312357745019222901
+    second: BaristaWher_Enraged_Walk_11
+  - first:
+      213: 4271349733908010183
+    second: BaristaWher_Enraged_Walk_12
+  - first:
+      213: 495061268391044517
+    second: BaristaWher_Enraged_Walk_13
+  - first:
+      213: 1269692277614719283
+    second: BaristaWher_Enraged_Walk_14
+  - first:
+      213: -1460566634300384470
+    second: BaristaWher_Enraged_Walk_15
+  - first:
+      213: -7383182491578827148
+    second: BaristaWher_Enraged_Walk_16
+  - first:
+      213: 6917353405069718044
+    second: BaristaWher_Enraged_Walk_17
+  - first:
+      213: 5777821757643814065
+    second: BaristaWher_Enraged_Walk_18
+  - first:
+      213: -5653968600249455373
+    second: BaristaWher_Enraged_Walk_19
+  - first:
+      213: -1901102839761530288
+    second: BaristaWher_Enraged_Walk_20
+  - first:
+      213: -2276197257753761152
+    second: BaristaWher_Enraged_Walk_21
+  - first:
+      213: -1570737559906262920
+    second: BaristaWher_Enraged_Walk_22
+  - first:
+      213: -5614480240078190087
+    second: BaristaWher_Enraged_Walk_23
+  - first:
+      213: 1295584870812786891
+    second: BaristaWher_Enraged_Walk_24
+  - first:
+      213: 1935886689848056914
+    second: BaristaWher_Enraged_Walk_25
+  - first:
+      213: 8904987636175353924
+    second: BaristaWher_Enraged_Walk_26
+  - first:
+      213: -1012196889924588521
+    second: BaristaWher_Enraged_Walk_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd876f966c0e54090a32a07a098219
+      internalID: 4698790625022131474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb978e2e49a3c54c8096e19aca3588f
+      internalID: 4135062689500184657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4331a75a0a1bde84e80d54e8fa8c69c8
+      internalID: 3209840393764750451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a155f082754e5d45b34e9adc36c1d42
+      internalID: -5553673809354662766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253af3784c825664b938682812fa5974
+      internalID: -4251434317813000643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cba985bbe3588249ac398eb890a84f1
+      internalID: 8111371664578101171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaristaWher_Enraged_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db201ca6251d547ac453a476beac74
+      internalID: 7399061397149268347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
